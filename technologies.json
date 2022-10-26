@@ -3,7 +3,7 @@
       "name": "Scrum",
       "ring": "green",
       "quadrant": "techniques",
-      "isNew": "FALSE",
+      "isNew": "TRUE",
       "description": "Scrum is an agile framework for managing work with an emphasis on software development. It is designed for teams of three to nine developers who break their work into actions that can be completed within two-weeks iterations, called sprints and track progress and re-plan in 15-minute stand-up meetings, called daily scrums."
     },
     {
