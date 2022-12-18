@@ -1,0 +1,226 @@
+name,ring,quadrant,isNew,description
+MS SQL Server 2008 R2 ,red,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Database Managment System (DBMS)</br><b>Subdomain: </b>Relational</br><b>The latest available version: </b>2022
+MS SQL Server 2012,red,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Database Managment System (DBMS)</br><b>Subdomain: </b>Relational</br><b>The latest available version: </b>2022
+MS SQL Server 2016,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Database Managment System (DBMS)</br><b>Subdomain: </b>Relational</br><b>The latest available version: </b>2022
+MS SQL Server 2017,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Database Managment System (DBMS)</br><b>Subdomain: </b>Relational</br><b>The latest available version: </b>2022
+Oracle Database 10g,red,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Database Managment System (DBMS)</br><b>Subdomain: </b>Relational</br><b>The latest available version: </b>21c
+Oracle Database 11g,red,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Database Managment System (DBMS)</br><b>Subdomain: </b>Relational</br><b>The latest available version: </b>21c
+Oracle Database 12g,red,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Database Managment System (DBMS)</br><b>Subdomain: </b>Relational</br><b>The latest available version: </b>21c
+Enterprise DB PostgreSQL 12,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Database Managment System (DBMS)</br><b>Subdomain: </b>Relational</br><b>The latest available version: </b>15
+PostgreSQL 14.5,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Database Managment System (DBMS)</br><b>Subdomain: </b>Relational</br><b>The latest available version: </b>15
+MySQL 8.0,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Database Managment System (DBMS)</br><b>Subdomain: </b>Relational</br><b>The latest available version: </b>8.0.31
+MongoDB Community Edition 4.2.7,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Database Managment System (DBMS)</br><b>Subdomain: </b>Non-relational</br><b>The latest available version: </b>6.0
+Always On Avalilability Group 2017,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Database Managment System (DBMS)</br><b>Subdomain: </b>Replication</br><b>The latest available version: </b>2022
+MS Windows Server 2008 R2 ,red,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Server OS</br><b>Subdomain: </b>X86 Windows</br><b>The latest available version: </b>2022
+MS Windows Server 2012 R2,red,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Server OS</br><b>Subdomain: </b>X86 Windows</br><b>The latest available version: </b>2022
+MS Windows Server 2016,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Server OS</br><b>Subdomain: </b>X86 Windows</br><b>The latest available version: </b>2022
+MS Windows Server 2019,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Server OS</br><b>Subdomain: </b>X86 Windows</br><b>The latest available version: </b>2022
+MS Windows Server 2022,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Server OS</br><b>Subdomain: </b>X86 Windows</br><b>The latest available version: </b>2022
+Red Hat Enterprise Linux 5.5,red,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Server OS</br><b>Subdomain: </b>X86 Linux</br><b>The latest available version: </b>9
+Red Hat Enterprise Linux 6.9,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Server OS</br><b>Subdomain: </b>X86 Linux</br><b>The latest available version: </b>9
+Red Hat Enterprise Linux 7.x,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Server OS</br><b>Subdomain: </b>X86 Linux</br><b>The latest available version: </b>9
+CentOS 7.x,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Server OS</br><b>Subdomain: </b>X86 Linux</br><b>The latest available version: </b>8.5
+Oracle Linux 6,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Server OS</br><b>Subdomain: </b>X86 Linux</br><b>The latest available version: </b>9
+Oracle Linux 7,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Server OS</br><b>Subdomain: </b>X86 Linux</br><b>The latest available version: </b>9
+Oracle Linux  8,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Server OS</br><b>Subdomain: </b>X86 Linux</br><b>The latest available version: </b>9
+Alma Linux 8.6,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Server OS</br><b>Subdomain: </b>X86 Linux</br><b>The latest available version: </b> 9
+Ubuntu  ,yellow,Infrastructure and Platform,FALSE,"<b>Technology domain: </b>Server OS</br><b>Subdomain: </b>X86 Linux</br><b>The latest available version: </b>22.10, 22.04 LTS"
+AIX 7.1,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Server OS</br><b>Subdomain: </b>Unix</br><b>The latest available version: </b>7.3
+IIS 7.0 ,red,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Application server</br><b>Subdomain: </b>Windows</br><b>The latest available version: </b>10.0
+IIS 8.0,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Application server</br><b>Subdomain: </b>Windows</br><b>The latest available version: </b>10.0
+IIS 10.0,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Application server</br><b>Subdomain: </b>Windows</br><b>The latest available version: </b>10.0
+Apache Tomcat 9.0,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Application server</br><b>Subdomain: </b>Windows</br><b>The latest available version: </b>10.0
+Apache Tomcat 7.0.57,red,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Application server</br><b>Subdomain: </b>Linux</br><b>The latest available version: </b>10.1.0
+Apache Tomcat 8.0.27,red,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Application server</br><b>Subdomain: </b>Linux</br><b>The latest available version: </b>10.1.0
+Apache Tomcat 9.0.56,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Application server</br><b>Subdomain: </b>Linux</br><b>The latest available version: </b>10.1.0
+Docker Desktop 4.7.1 ,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Container Technologies</br><b>Subdomain: </b>Platform</br><b>The latest available version: </b>4.14.1
+Docker Desktop 4.10.1,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Container Technologies</br><b>Subdomain: </b>Platform</br><b>The latest available version: </b>4.14.1
+Docker Desktop 4.11.1,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Container Technologies</br><b>Subdomain: </b>Platform</br><b>The latest available version: </b>4.14.1
+Red Hat Openshift 4.9,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Container Technologies</br><b>Subdomain: </b>Orchestration</br><b>The latest available version: </b>4.11
+Vmware vSphere 7.0.3.00300,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Server virtualization</br><b>The latest available version: </b>8.0
+CheckPoint 80.20 ,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Networking</br><b>Subdomain: </b>Firewall</br><b>The latest available version: </b>81
+CheckPoint 80.30,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Networking</br><b>Subdomain: </b>Firewall</br><b>The latest available version: </b>81
+CheckPoint 80.40,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Networking</br><b>Subdomain: </b>Firewall</br><b>The latest available version: </b>81
+CheckPoint 81,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Networking</br><b>Subdomain: </b>Firewall</br><b>The latest available version: </b>81
+F5 15.1.8,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Networking</br><b>Subdomain: </b>Load Balancer</br><b>The latest available version: </b>17.0
+Cisco AnyConnect Secure Mobility Client 4.10,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Networking</br><b>Subdomain: </b>VPN</br><b>The latest available version: </b>4.10
+Vmware NSX-T 3.1.3.3,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Networking</br><b>Subdomain: </b>SDN</br><b>The latest available version: </b>
+WLC 5520 8.10.151.0,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Networking</br><b>Subdomain: </b>WiFI</br><b>The latest available version: </b>8.10.181
+Cisco Prime 3.8,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Networking</br><b>Subdomain: </b>Management and monitoring software</br><b>The latest available version: </b>3.10
+SolarWinds Orion Core Services 2020.2.6,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Networking</br><b>Subdomain: </b>Management and monitoring software</br><b>The latest available version: </b>2022.3
+PRTG Network Monitor 22.3.79.2108,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Networking</br><b>Subdomain: </b>Management and monitoring software</br><b>The latest available version: </b>22.3.79.2108
+Dell EMC ,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Storage</br><b>Subdomain: </b>SAN</br><b>The latest available version: </b>
+Brocade ,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Storage</br><b>Subdomain: </b>SAN</br><b>The latest available version: </b>
+Cisco MD ,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Storage</br><b>Subdomain: </b>SAN</br><b>The latest available version: </b>
+Dell EMC ,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Storage</br><b>Subdomain: </b>SDS</br><b>The latest available version: </b>
+Centreon 21.04.0,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Monitoring</br><b>Subdomain: </b>Infrastructure & Platform</br><b>The latest available version: </b>
+MS System Center Operations Manager 2019,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Monitoring</br><b>Subdomain: </b>Infrastructure & Platform</br><b>The latest available version: </b>
+PRTG Network Monitor 22.3.79.2108,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Monitoring</br><b>Subdomain: </b>Network</br><b>The latest available version: </b>22.3
+Broadcom APM 21.7,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Monitoring</br><b>Subdomain: </b>Application</br><b>The latest available version: </b>22.8
+Centreon 21.04,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Monitoring</br><b>Subdomain: </b>Application</br><b>The latest available version: </b>22.10
+Commvault ContentStore 11.28,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Backup</br><b>Subdomain: </b>Software</br><b>The latest available version: </b>2022E
+Commvault ContentStore 11.80,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Backup</br><b>Subdomain: </b>Software</br><b>The latest available version: </b>2022E
+Quantum LTO-6,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Backup</br><b>Subdomain: </b>Tape</br><b>The latest available version: </b>
+Quantum LTO-8,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Backup</br><b>Subdomain: </b>Tape</br><b>The latest available version: </b>
+SharePoint 2013,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>Content management</br><b>The latest available version: </b>
+SharePoint 2019,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>Content management</br><b>The latest available version: </b>
+Bugzila 5.0.4,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>Test Management</br><b>The latest available version: </b>5.0.6
+TestLink 1.9.17,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>Test Management</br><b>The latest available version: </b>1.9.20
+SpiraTeam 5.4,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>Test Management</br><b>The latest available version: </b>7.2
+SpiraTeam 6.12,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>Test Management</br><b>The latest available version: </b>7.2
+BitBucket 8.5,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>Source code managment</br><b>The latest available version: </b>8.6
+TortoiseGit 2.11.0,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>Source code managment</br><b>The latest available version: </b>2.13.0
+TortoiseGit 2.12.0,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>Source code managment</br><b>The latest available version: </b>2.13.0
+Git 2.6.12,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>Source code managment</br><b>The latest available version: </b>2.38.1
+TortoiseSVN 1.14.0,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>Source code managment</br><b>The latest available version: </b>1.14.5
+GitLab SCM 15.1,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>Source code managment</br><b>The latest available version: </b>15.5
+Redmine ,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>Task Management</br><b>The latest available version: </b>5.0.3
+Jira 8.20.2,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>Task Management</br><b>The latest available version: </b>8.22.2
+Jenkins 2.249,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>CI tools</br><b>The latest available version: </b>2.361
+Jenkins 2.235,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>CI tools</br><b>The latest available version: </b>2.361
+Jenkins 2.361,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>CI tools</br><b>The latest available version: </b>2.361
+GitLab CI/CD 15.1,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>CI tools</br><b>The latest available version: </b>15.4
+OpenShift GitOps 1.6,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>CI tools</br><b>The latest available version: </b>1.6
+GitLab 15.1,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>DevOps platform</br><b>The latest available version: </b>15.5
+OpenShift 4.9,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>Deployment management</br><b>The latest available version: </b>4.11
+GitLab 15.1,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>Deployment management</br><b>The latest available version: </b>15.4
+Ranorex 10.1.5,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>Software Test Automation</br><b>The latest available version: </b>10.4
+Ranorex 10.4,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>Software Test Automation</br><b>The latest available version: </b>10.4
+Ranorex Licence Manager 9.2,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>Software Test Automation</br><b>The latest available version: </b>9.2
+Ranorex Remote Agent 7.2,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>Software Test Automation</br><b>The latest available version: </b>7.5
+Ranorex Driver 10.2,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>Software Test Automation</br><b>The latest available version: </b>10.2
+Appium-Server-GUI-windows 1.22.3-4,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>Software Test Automation</br><b>The latest available version: </b>1.22.3-4
+Appium-Inspector-windows 2022.7.1,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>Software Test Automation</br><b>The latest available version: </b>2022.7.1
+SoupUI 5.2.1,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Devops tools and platforms</br><b>Subdomain: </b>Software Test Automation</br><b>The latest available version: </b>5.7.0
+"Cisco Webex Meetings 41, 42",green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Communication</br><b>Subdomain: </b>Room video system</br><b>The latest available version: </b>42.11
+"Zoom 5.9, 5.10, 5.11",yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Communication</br><b>Subdomain: </b>VideoConf </br><b>The latest available version: </b>5.12
+MobileIron 11.6,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Communication</br><b>Subdomain: </b>MDM</br><b>The latest available version: </b>11.8
+Cisco CUCM 12.5.1,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Communication</br><b>Subdomain: </b>IP-telephony</br><b>The latest available version: </b>
+IP Centrex ,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Communication</br><b>Subdomain: </b>IP-telephony</br><b>The latest available version: </b>
+Alcatel-Lucent OmniPCX Enterprise 12,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Communication</br><b>Subdomain: </b>IP-telephony</br><b>The latest available version: </b>
+Teams 1.3 ,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Communication</br><b>Subdomain: </b>Collaboration Platform</br><b>The latest available version: </b>1.5
+Teams 1.4,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Communication</br><b>Subdomain: </b>Collaboration Platform</br><b>The latest available version: </b>1.5
+Teams 1.5,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Communication</br><b>Subdomain: </b>Collaboration Platform</br><b>The latest available version: </b>1.5
+Skype for Business Web App 15.8.20020.400,yellow,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Communication</br><b>Subdomain: </b>Collaboration Platform</br><b>The latest available version: </b>16.0.5095
+ServiceNow ,green,Infrastructure and Platform,FALSE,<b>Technology domain: </b>Communication</br><b>Subdomain: </b>ITSM</br><b>The latest available version: </b>
+JavaScript - Angular 2.0 ,red,Application and Platform,FALSE,<b>Technology domain: </b>Frontend Technology</br><b>Subdomain: </b>Webpage technology</br><b>The latest available version: </b>15
+JavaScript - Angular 13,green,Application and Platform,FALSE,<b>Technology domain: </b>Frontend Technology</br><b>Subdomain: </b>Webpage technology</br><b>The latest available version: </b>15
+JavaScript - React.js 17.0.2,yellow,Application and Platform,FALSE,<b>Technology domain: </b>Frontend Technology</br><b>Subdomain: </b>Webpage technology</br><b>The latest available version: </b>18.2.0
+JavaScript - Knockout 3.5.1,yellow,Application and Platform,FALSE,<b>Technology domain: </b>Frontend Technology</br><b>Subdomain: </b>Webpage technology</br><b>The latest available version: </b>3.5.1
+JavaScript - jQuery 1.1.1,red,Application and Platform,FALSE,<b>Technology domain: </b>Frontend Technology</br><b>Subdomain: </b>Webpage technology</br><b>The latest available version: </b>3.6.1
+PHP 7.2,yellow,Application and Platform,FALSE,<b>Technology domain: </b>Frontend Technology</br><b>Subdomain: </b>Webpage technology</br><b>The latest available version: </b>8.1
+.NET Core MVC 2.1,yellow,Application and Platform,FALSE,<b>Technology domain: </b>Frontend Technology</br><b>Subdomain: </b>Desktop client application</br><b>The latest available version: </b>6.0
+DevExpress 21.2.4,yellow,Application and Platform,FALSE,<b>Technology domain: </b>Frontend Technology</br><b>Subdomain: </b>Desktop client application</br><b>The latest available version: </b>22.1
+JavaFX 8,yellow,Application and Platform,FALSE,<b>Technology domain: </b>Frontend Technology</br><b>Subdomain: </b>Desktop client application</br><b>The latest available version: </b>19
+MS WinForms(VB6)  ,red,Application and Platform,FALSE,<b>Technology domain: </b>Frontend Technology</br><b>Subdomain: </b>Desktop client application</br><b>The latest available version: </b> 
+Delphi Forms 7,red,Application and Platform,FALSE,<b>Technology domain: </b>Frontend Technology</br><b>Subdomain: </b>Desktop client application</br><b>The latest available version: </b>11.2
+Delphi Forms 11,yellow,Application and Platform,FALSE,<b>Technology domain: </b>Frontend Technology</br><b>Subdomain: </b>Desktop client application</br><b>The latest available version: </b>11.2
+Kotlin 1.7.10,green,Application and Platform,FALSE,<b>Technology domain: </b>Frontend Technology</br><b>Subdomain: </b>Mobile client Application</br><b>The latest available version: </b>1.7.21
+Swift 4.2,yellow,Application and Platform,FALSE,<b>Technology domain: </b>Frontend Technology</br><b>Subdomain: </b>Mobile client Application</br><b>The latest available version: </b>5.7
+.NET (Core) Framework 2.0 ,red,Application and Platform,FALSE,"<b>Technology domain: </b>Backend Technology</br><b>The latest available version: </b>6.0 LTS, 7.0"
+.NET (Core) Framework 2.1,red,Application and Platform,FALSE,"<b>Technology domain: </b>Backend Technology</br><b>The latest available version: </b>6.0 LTS, 7.0"
+.NET (Core) Framework 3.1,yellow,Application and Platform,FALSE,"<b>Technology domain: </b>Backend Technology</br><b>The latest available version: </b>6.0 LTS, 7.0"
+.NET (Core) Framework 6.0,green,Application and Platform,FALSE,"<b>Technology domain: </b>Backend Technology</br><b>The latest available version: </b>6.0 LTS, 7.0"
+.NET Framework 3.5 ,red,Application and Platform,FALSE,<b>Technology domain: </b>Backend Technology</br><b>The latest available version: </b>4.8.1
+.NET Framework 4.0,red,Application and Platform,FALSE,<b>Technology domain: </b>Backend Technology</br><b>The latest available version: </b>4.8.1
+.NET Framework 4.5,red,Application and Platform,FALSE,<b>Technology domain: </b>Backend Technology</br><b>The latest available version: </b>4.8.1
+.NET Framework 4.6.1,red,Application and Platform,FALSE,<b>Technology domain: </b>Backend Technology</br><b>The latest available version: </b>4.8.1
+Delphi 7,red,Application and Platform,FALSE,<b>Technology domain: </b>Backend Technology</br><b>The latest available version: </b>11.2
+Delphi 11,green,Application and Platform,FALSE,<b>Technology domain: </b>Backend Technology</br><b>The latest available version: </b>11.2
+ASP.NET 4.7.2 ,yellow,Application and Platform,FALSE,<b>Technology domain: </b>Backend Technology</br><b>The latest available version: </b>4.8.1
+ASP.NET 4.8,green,Application and Platform,FALSE,<b>Technology domain: </b>Backend Technology</br><b>The latest available version: </b>4.8.1
+PHP 7.2,yellow,Application and Platform,FALSE,<b>Technology domain: </b>Backend Technology</br><b>The latest available version: </b>8.1
+Spring Framework 4.3.9,red,Application and Platform,FALSE,<b>Technology domain: </b>Backend Technology</br><b>The latest available version: </b>5.3.23
+Hibernate 4.3.8,red,Application and Platform,FALSE,<b>Technology domain: </b>Backend Technology</br><b>The latest available version: </b>6.1.4
+JSTL 1.2,green,Application and Platform,FALSE,<b>Technology domain: </b>Backend Technology</br><b>The latest available version: </b>1.2
+Grails (Groovy) 5.2.0,green,Application and Platform,FALSE,<b>Technology domain: </b>Backend Technology</br><b>The latest available version: </b>5.2.5
+Vaadin 7,red,Application and Platform,FALSE,<b>Technology domain: </b>Backend Technology</br><b>The latest available version: </b>22
+Vaadin 8,red,Application and Platform,FALSE,<b>Technology domain: </b>Backend Technology</br><b>The latest available version: </b>22
+IBM App Connect 11.0.0.8,green,Application and Platform,FALSE,<b>Technology domain: </b>Integration Platform</br><b>Subdomain: </b>ESB</br><b>The latest available version: </b>12.0.5
+Kafka 3.3.1,green,Application and Platform,FALSE,<b>Technology domain: </b>Integration Platform</br><b>Subdomain: </b>Messaging</br><b>The latest available version: </b>3.3.1
+JobScheduler (JADE) 1.10.1,yellow,Application and Platform,FALSE,<b>Technology domain: </b>Integration Platform</br><b>Subdomain: </b>File transfer management</br><b>The latest available version: </b>1.13.16
+JobScheduler (JADE) 1.10.4,yellow,Application and Platform,FALSE,<b>Technology domain: </b>Integration Platform</br><b>Subdomain: </b>File transfer management</br><b>The latest available version: </b>1.13.16
+JobScheduler (JADE) 1.13.9,green,Application and Platform,FALSE,<b>Technology domain: </b>Integration Platform</br><b>Subdomain: </b>File transfer management</br><b>The latest available version: </b>1.13.16
+Opentext Documentum CE 21.1,green,Application and Platform,FALSE,<b>Technology domain: </b>Data Management</br><b>Subdomain: </b>DMS</br><b>The latest available version: </b>CE 22.4
+Collibra ,green,Application and Platform,FALSE,<b>Technology domain: </b>Data Management</br><b>Subdomain: </b>Data governance</br><b>The latest available version: </b>
+Kibana/Elasticsearch 7.9.3,green,Application and Platform,FALSE,<b>Technology domain: </b>Data Management</br><b>Subdomain: </b>Data visualization</br><b>The latest available version: </b>8.5.1
+Kibana/Elasticsearch 8.2.3,green,Application and Platform,FALSE,<b>Technology domain: </b>Data Management</br><b>Subdomain: </b>Data visualization</br><b>The latest available version: </b>8.5.1
+PowerBI Desktop 2.78 ,yellow,Application and Platform,FALSE,<b>Technology domain: </b>Data Management</br><b>Subdomain: </b>BI tools</br><b>The latest available version: </b>2.110 
+PowerBI Desktop 2.96 ,yellow,Application and Platform,FALSE,<b>Technology domain: </b>Data Management</br><b>Subdomain: </b>BI tools</br><b>The latest available version: </b>2.110 
+PowerBI Desktop 2.99,yellow,Application and Platform,FALSE,<b>Technology domain: </b>Data Management</br><b>Subdomain: </b>BI tools</br><b>The latest available version: </b>2.110 
+PowerBI Desktop 2.105,green,Application and Platform,FALSE,<b>Technology domain: </b>Data Management</br><b>Subdomain: </b>BI tools</br><b>The latest available version: </b>2.110 
+PowerBI Desktop 2.106 ,green,Application and Platform,FALSE,<b>Technology domain: </b>Data Management</br><b>Subdomain: </b>BI tools</br><b>The latest available version: </b>2.110 
+PowerBI Report Server 1.14.8179.7378,green,Application and Platform,FALSE,<b>Technology domain: </b>Data Management</br><b>Subdomain: </b>BI tools</br><b>The latest available version: </b>1.15.8300.38452
+Tableau 8.1.1926,yellow,Application and Platform,FALSE,<b>Technology domain: </b>Data Management</br><b>Subdomain: </b>BI tools</br><b>The latest available version: </b> 2022.3
+Ceph 15.2.4,yellow,Application and Platform,FALSE,<b>Technology domain: </b>Data Management</br><b>Subdomain: </b>Data lake</br><b>The latest available version: </b>17.2.5
+Ceph 16.2.7,yellow,Application and Platform,FALSE,<b>Technology domain: </b>Data Management</br><b>Subdomain: </b>Data lake</br><b>The latest available version: </b>17.2.5
+SQL Server Integration services 2017,yellow,Application and Platform,FALSE,<b>Technology domain: </b>Data Management</br><b>The latest available version: </b>2022
+SQL Server Analysis services 2017,yellow,Application and Platform,FALSE,<b>Technology domain: </b>Data Management</br><b>The latest available version: </b>2022
+SQL Server Analysis services 2019,green,Application and Platform,FALSE,<b>Technology domain: </b>Data Management</br><b>The latest available version: </b>2022
+Kafka 3.3.1,green,Application and Platform,FALSE,<b>Technology domain: </b>Date Streaming</br><b>The latest available version: </b>3.3.1
+Microsoft SQL Server Management Studio 2016,yellow,Development tools,FALSE,<b>The latest available version: </b>18.12.1
+Microsoft SQL Server Management Studio 15.0,yellow,Development tools,FALSE,<b>The latest available version: </b>18.12.1
+Microsoft SQL Server Management Studio 17.9.1,green,Development tools,FALSE,<b>The latest available version: </b>18.12.1
+Microsoft SQL Server Management Studio 18.4,green,Development tools,FALSE,<b>The latest available version: </b>18.12.1
+Microsoft SQL Server Management Studio 18.8,green,Development tools,FALSE,<b>The latest available version: </b>18.12.1
+Microsoft SQL Server Management Studio 18.11,green,Development tools,FALSE,<b>The latest available version: </b>18.12.1
+Visual Studio Professional 2015 ,yellow,Development tools,FALSE,<b>The latest available version: </b>2022
+Visual Studio Professional 2017 ,yellow,Development tools,FALSE,<b>The latest available version: </b>2022
+Visual Studio Professional 2019 ,green,Development tools,FALSE,<b>The latest available version: </b>2022
+Visual Studio Professional 2022,green,Development tools,FALSE,<b>The latest available version: </b>2022
+Visual Studio Community 2022,green,Development tools,FALSE,<b>The latest available version: </b>2022
+Visual Studio Code 1.69,yellow,Development tools,FALSE,<b>The latest available version: </b>1.73
+Visual Studio Code 1.72,green,Development tools,FALSE,<b>The latest available version: </b>1.73
+Toad MySQL 7.7,green,Development tools,FALSE,<b>The latest available version: </b>8.0
+Toad for Oracle 13.0.0.80,red,Development tools,FALSE,<b>The latest available version: </b> 16.1
+Toad for Oracle 14.1,yellow,Development tools,FALSE,<b>The latest available version: </b> 16.1
+Android Studio 2021.2.1 Patch 1,green,Development tools,FALSE,<b>The latest available version: </b>2021.3.1
+Postman 10.1.1,green,Development tools,FALSE,<b>The latest available version: </b>10.1.1
+IntelliJ IDEA (Community Edition) 2022.2.1,green,Development tools,FALSE,<b>The latest available version: </b>2022.2.1
+Oracle SQL Developer 3.2.20.10 ,red,Development tools,FALSE,<b>The latest available version: </b>22.2.1.234.1810
+Oracle SQL Developer 19.2.1.247,yellow,Development tools,FALSE,<b>The latest available version: </b>22.2.1.234.1810
+PL/SQL Developer 10.0.3.17,red,Development tools,FALSE,<b>The latest available version: </b>15.0
+IBM Integration Bus Developer Edition 10.0.0.10,green,Development tools,FALSE,<b>The latest available version: </b>10.0.0.26 
+MySQL Workbench CE 8.0,green,Development tools,FALSE,<b>The latest available version: </b>8.0.31
+NetBeans 8.2,red,Development tools,FALSE,<b>The latest available version: </b>15
+Delphi RAD (Object Pascal) 7 ,red,Development tools,FALSE,<b>The latest available version: </b>11.2
+Delphi RAD (Object Pascal) 11,green,Development tools,FALSE,<b>The latest available version: </b>11.2
+Altova XML Spy 2023,green,Development tools,FALSE,<b>The latest available version: </b>2023
+SQL Server Integration services 2017,yellow,Development tools,FALSE,<b>The latest available version: </b>2022
+SQL Server Analysis services 2017,yellow,Development tools,FALSE,<b>The latest available version: </b>2022
+SQL Server Analysis services 2019,green,Development tools,FALSE,<b>The latest available version: </b>2022
+Java JDK 1.8.0.162,yellow,Development tools,FALSE,<b>The latest available version: </b>19.0.1
+SoapUI 4.6.1,yellow,Development tools,FALSE,<b>The latest available version: </b>5.7.0
+Eclipse 4,green,Development tools,FALSE,<b>The latest available version: </b>4.26
+"Postman 9.0.9, 9.31.0",green,Development tools,FALSE,<b>The latest available version: </b>10.1.2
+Apache ANT 1.7.0,yellow,Development tools,FALSE,<b>The latest available version: </b>1.10.12
+Apache ANT 1.9.6,green,Development tools,FALSE,<b>The latest available version: </b>1.10.12
+"Axis 1.4, 1.6.2",yellow,Development tools,FALSE,<b>The latest available version: </b>1.8.2
+DbVisualizer 11.0.5,yellow,Development tools,FALSE,<b>The latest available version: </b>14.0.1
+Oracle Forms ,red,Development tools,FALSE,<b>The latest available version: </b>
+Oracle ADF ,red,Development tools,FALSE,<b>The latest available version: </b>
+Oxygen XML Editor 14,yellow,Development tools,FALSE,<b>The latest available version: </b>24.1
+WAMP Server 3.0.6 ,green,Development tools,FALSE,<b>The latest available version: </b>3.2.7
+WAMP Server 3.1.4 ,green,Development tools,FALSE,<b>The latest available version: </b>3.2.7
+WAMP Server 3.2.0,green,Development tools,FALSE,<b>The latest available version: </b>3.2.7
+IBM MQ Explorer 9.1 ,green,Development tools,FALSE,<b>The latest available version: </b>9.1
+C# 8,yellow,Development tools,FALSE,<b>The latest available version: </b>11
+C# 10,green,Development tools,FALSE,<b>The latest available version: </b>11
+TypeScript 4.5.2,yellow,Development tools,FALSE,<b>The latest available version: </b>4.8.4
+TypeScript 4.7.2,green,Development tools,FALSE,<b>The latest available version: </b>4.8.4
+McAfee Endpoint Security Platform 10.7.0,green,Security and Platform,FALSE,<b>Technology domain: </b>Endpoint protection systems</br><b>The latest available version: </b>10.7.0
+Symantec Data Loss Prevention 15.7 ,green,Security and Platform,FALSE,<b>Technology domain: </b>DLP systems</br><b>The latest available version: </b>15.8
+Symantec Data Loss Prevention 15.8,green,Security and Platform,FALSE,<b>Technology domain: </b>DLP systems</br><b>The latest available version: </b>15.8
+CheckPoint NGTP 81,green,Security and Platform,FALSE,<b>Technology domain: </b>Intrusion detection systems</br><b>The latest available version: </b>81
+DarkTrace Enterprise immune system 52088,green,Security and Platform,FALSE,<b>Technology domain: </b>Intrusion detection systems</br><b>The latest available version: </b>
+Symantec Mail Security for MS Exchange 7.9,green,Security and Platform,FALSE,<b>Technology domain: </b>Anti-spam and e-mail security</br><b>The latest available version: </b>7.10
+CheckPoint SandBlast 81.10,green,Security and Platform,FALSE,<b>Technology domain: </b>Anti-spam and e-mail security</br><b>The latest available version: </b> 81.10
+Qualys 10.20.4,green,Security and Platform,FALSE,<b>Technology domain: </b>Vulnerability assessment </br><b>The latest available version: </b>10.20.4
+"ArcSight SmartConnector 5.0.6.0, 8.3",green,Security and Platform,FALSE,<b>Technology domain: </b>Security info and event management system</br><b>The latest available version: </b>8.4
+"Thycotic Secret Server 11.0, 11.1",green,Security and Platform,FALSE,<b>Technology domain: </b>Identity and Access Management Systems</br><b>The latest available version: </b>11.3
+Wallix Bastion 9 ,green,Security and Platform,FALSE,<b>Technology domain: </b>Identity and Access Management Systems</br><b>The latest available version: </b>9
+Microsoft Advanced Threat Analytics ,green,Security and Platform,FALSE,<b>Technology domain: </b>Advanced Threat Protection Systems</br><b>The latest available version: </b>1.9
+Symantec ProxySG 7.3                ,green,Security and Platform,FALSE,<b>Technology domain: </b>Content Filtering</br><b>The latest available version: </b>7.3
+Symantec CAS 3.1.5.1             ,green,Security and Platform,FALSE,<b>Technology domain: </b>IAP</br><b>The latest available version: </b>3.1.5.1
+Vynamic View   ,green,Security and Platform,FALSE,<b>Technology domain: </b>ATM Security</br><b>The latest available version: </b>
+Kleopatra 4.0.2,green,Security and Platform,FALSE,<b>Technology domain: </b>File Encription</br><b>The latest available version: </b>4.0.4
